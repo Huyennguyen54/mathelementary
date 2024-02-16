@@ -45,7 +45,7 @@ Example:
 
 ## Model Finetuning ## 
 In this section, we focus on fine-tuning the DeBERTa v3 model for our specific task. 
-We supervised fine-tune MetaMath-7B with the following hyperparameters:
+We also supervised fine-tune MetaMath-7B.
 
 Hyperparameter	DeBerta V3
 Batch size	128
