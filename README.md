@@ -43,3 +43,13 @@ Example:
 
 ## Model Finetuning ## 
 In this section, we focus on fine-tuning the DeBERTa v3 model for our specific task. 
+We supervised fine-tune MetaMath-7B with the following hyperparameters:
+
+Hyperparameter	DeBerta V3
+Batch size	128
+Learning rate	2e-5
+Epochs	20
+
+## Result ##
+
+CV MAP@3 = 0.7694444444444445
