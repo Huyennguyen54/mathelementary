@@ -24,7 +24,9 @@ Restrictions:
 
 ## Dataset ##
 math_train.json - a set of 1200 questions with the answer column
+
 math_test.json - a set of 189 questions
+
 Example:
 
 {
